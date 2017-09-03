@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">No:12_InternalStorage(I/O)</string>
+    <string name="file_name">檔案：</string>
+    <string name="edit_hint">請輸入要附加的資料</string>
+    <string name="path">路徑：</string>
+    <string name="save">儲存</string>
+    <string name="append">附加</string>
+    <string name="delete">刪除</string>
+    <string name="dialog_save_title">儲存檔案？</string>
+    <string name="dialog_save_message">檔名：</string>
+    <string name="dialog_save_hint">請輸入儲存的檔案名稱</string>
+    <string name="save_cancel">取消儲存檔案！</string>
+    <string name="save_ok">儲存成功！</string>
+    <string name="save_error">儲存失敗！</string>
+    <string name="dialog_ok">確定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_delete_title">刪除檔案？</string>
+    <string name="dialog_delete_message">確定要刪除</string>
+    <string name="delete_cancel">取消刪除檔案！</string>
+    <string name="delete_ok">刪除成功！</string>
+    <string name="delete_error">刪除失敗！</string>
+</resources>
